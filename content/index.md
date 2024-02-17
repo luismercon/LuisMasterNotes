@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Luis Master Notes
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Essa é a primeira nota do Luis Master Notes.
