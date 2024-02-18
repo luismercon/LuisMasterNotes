@@ -1,18 +1,11 @@
-# Quartz v4
+Essa repositório tem como objetivo criar e desenvolver notas relacionadas aos meus estudos como aluno do [Mestrado de Engenharia Informática do ISEC](https://www.ipc.pt/oferta-formativa/mestrado-em-engenharia-informatica/), no ramo de Engenharia de Software.
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+A criação de notas segue a os princípios e estilos de um *digital garden* e *learn in public*. 
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+**Digital garden**: com o tempo as notas vão sendo desenvolvidas e relacionadas entre si, como um jardim, que com o tempo cresce e precisa ser sempre cuidado. 
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+**Learning in public**: O objetivo de deixar as notas abertas na internet é muito mais documentar meus estudos, e menos de divulgar conteúdo.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+A edição e gestão das notas são feitas por meio da ferramenta Obsidian. Para saber mais, acesse: https://obsidian.md/
 
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+A publicação das notas é feita por meio da ferramenta Quarts v4. Para conhecer mais o projeto e documentação, acesse: https://quartz.jzhao.xyz/. 
