@@ -1,6 +1,9 @@
 ---
 title: Index
 ---
+>[!warning] Atenção
+>Esse site está em construção permanente. Para entender do que se trata visite a página [[sobre]].
+
 ## Ano Curricular 01
 ### Primeiro Semestre
 
