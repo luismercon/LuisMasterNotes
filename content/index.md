@@ -6,29 +6,29 @@ Essa página é construída seguindo a filosofia de um *digital garden* e tem co
 
 As disciplinas de cada semestre estão abaixo:
 
-# Ano Curricular 01
-## Primeiro Semestre
+## Ano Curricular 01
+### Primeiro Semestre
 
 - [[Machine Learning]]
 - [[Metodologia e Desenvolvimento de Software]]
 - [[Design e Arquitetura de Software]]
 - [[Análise de Requisitos]]
 
-## Segundo Semestre
+### Segundo Semestre
 
 - [[Ambient Intelligence - MOC]]
-- [[Plataformas de Desenvolvimento]]
-- [[Testes e Qualidade de Software]]
-- [[Big Data]]
+- [[Plataformas de Desenvolvimento - MOC]]
+- [[Testes e Qualidade de Software - MOC]]
+- [[Big Data - MOC]]
 
+---
+## Ano Curricular 02
 
-# Ano Curricular 02
-
-## Primeiro Semestre
+### Primeiro Semestre
 
 - [[Projeto de Software]]
 - [[Seminários Industriais]]
 
-## Segundo Semestre
+### Segundo Semestre
 
 - [[Dissertação]]
